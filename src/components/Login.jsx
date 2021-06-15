@@ -39,7 +39,7 @@ export default function Login() {
         <div className="header" style={{fontSize : 30 }}><center>Login</center></div>
         <div className="content">
           <div className="image">
-            <center><img src={loginImg} width="493" height="330"/></center>
+            <center><img src={loginImg} width="493" alt="vars" height="330"/></center>
           </div>
             <br></br>
                     <form onSubmit={handleSubmit}>
