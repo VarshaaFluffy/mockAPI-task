@@ -1,6 +1,6 @@
 # user-details-grootan
 
-<b>username:</b>varshaa
-<b>password:</b>varsgrootan
+<b>Username:</b>varshaa<br>
+<b>Password:</b>varsgrootan
 
-<a href="https://varshaa-userdetails-grootan.netlify.app/ ">link </a>
+<b>Link:</b><a href="https://varshaa-userdetails-grootan.netlify.app/ ">https://varshaa-userdetails-grootan.netlify.app</a>
