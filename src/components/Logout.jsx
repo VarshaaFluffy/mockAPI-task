@@ -4,6 +4,7 @@ import {UserContext} from '../Context'
 
 export default function Logout() {
     const {logindata}=useContext(UserContext)
+    //eslint-disable-next-line
     const [login,setLogin]=logindata
     useEffect(()=>{
         let login = { user: "varshaa", pass: "varsgrootan", access: false }
